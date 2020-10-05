@@ -1,0 +1,4 @@
+allennlp >= 0.8.2
+pygtrie >= 2.2
+pytest-cov >= 2.6.1
+codecov >= 2.0.15
